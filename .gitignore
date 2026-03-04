@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Environment files (secrets)
+.env
+config.env
+
+# Optional: logs
+logs/
+*.log
+
+# Optional: OS files
+.DS_Store
+Thumbs.db
+
+# Optional: build folders
+dist/
