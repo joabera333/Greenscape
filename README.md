@@ -1,10 +1,10 @@
-# Greenscape — Natours (Stay Wise style)
+# Greenscape 
 
 ![Status](https://img.shields.io/badge/status-in%20development-yellow)
 ![Frontend](https://img.shields.io/badge/frontend-Pug%20%2B%20Vanilla%20JS-blue)
 ![Backend](https://img.shields.io/badge/backend-Node.js%20%2B%20Express-green)
 
-🏕️ A modern tour booking web application inspired by Jonas Schmedtmann's Natours. Greenscape (aka Natours) provides server-rendered pages using Pug, a REST API, authentication, image uploads, Stripe checkout integration, and Mapbox maps.
+🏕️ A modern tour booking web application . Greenscape provides server-rendered pages using Pug, a REST API, authentication, image uploads, Stripe checkout integration, and Mapbox maps.
 
 ---
 
@@ -148,4 +148,12 @@ node dev-data/import-dev-data.js --delete
 
 ---
 
+## 💻 Live Demo
 
+[🌐 Greenscape](https://stay-wise-website.vercel.app/)
+
+## 📸 Screenshots
+
+### Greenscope website
+
+![Screenshot](./public/img/Screenshot.png)
