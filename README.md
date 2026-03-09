@@ -150,7 +150,7 @@ node dev-data/import-dev-data.js --delete
 
 ## 💻 Live Demo
 
-[🌐 Greenscape](https://stay-wise-website.vercel.app/)
+[🌐 Greenscape](#)
 
 ## 📸 Screenshots
 
